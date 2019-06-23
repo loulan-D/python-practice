@@ -12,6 +12,7 @@
     - [Python-Linked Lists](https://github.com/loulan-D/python-practice/blob/master/python-data-structure/Python-Linked%20Lists.ipynb)
     - [Python-Lists](https://github.com/loulan-D/python-practice/blob/master/python-data-structure/Python-Lists.ipynb)
     - [Python-Queue](https://github.com/loulan-D/python-practice/blob/master/python-data-structure/Python-Queue.ipynb)
+    - [Python-Graph](https://github.com/loulan-D/python-practice/blob/master/python-data-structure/Python-Graphs.ipynb)
 - Python-interview
 - Python-leetcode
 - Python-library
