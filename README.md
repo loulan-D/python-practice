@@ -14,6 +14,7 @@
     - [Python-Queue](https://github.com/loulan-D/python-practice/blob/master/python-data-structure/Python-Queue.ipynb)
     - [Python-Graph](https://github.com/loulan-D/python-practice/blob/master/python-data-structure/Python-Graphs.ipynb)
 - Python-interview
+    - [Python-interview-1-100](https://github.com/loulan-D/python-practice/blob/master/python-interview/python-interview-1-100.ipynb)
 - Python-leetcode
 - Python-library
 - Understand-Python
